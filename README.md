@@ -1,1 +1,2 @@
-# Space-shooter
+# SShtr
+Couple of noobs messing around
